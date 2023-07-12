@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**violetteallotey/violetteallotey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔍 Witness the power of data unleashed by an awe-inspiring data scientist and financial virtuoso, crafting decisions that transcend the mundane! Behold my projects in all their glory!
 - 🔭 Behold, as I toil away on mind-boggling new projects, like a mad genius in her laboratory!
