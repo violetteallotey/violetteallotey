@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/008/903/061/non_2x/data-science-banner-concept-has-7-steps-to-analyze-such-as-big-data-classification-analyze-statistics-solving-decision-and-knowledge-to-to-extract-knowledge-from-structured-and-unstructured-data-vector.jpg)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=violetteallotey.violetteallotey" />
 
