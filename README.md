@@ -1,13 +1,47 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=violetteallotey.violetteallotey" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Violette+Allotey!;" />
+</h1>
+
+<h3 align="center">A passionate data scientist from Ghana </h3>
+
+<br/>
+
+<div align="center">
+ 
+  🔍 Witness the power of data unleashed by an awe-inspiring data scientist and financial virtuoso, crafting decisions that transcend the mundane! Behold my projects in all their glory!
+   
+ 🔭 Behold, as I toil away on mind-boggling new projects, like a mad genius in her laboratory!
+  
+ 🌱 I thirstily drink from the fountain of machine learning knowledge, forever eager to expand my expertise!
+  
+ 👯 I am on a quest for brilliant minds to collaborate with, in the realms of data analysis, data science, and financial analysis!
+  
+ 💬 Speaketh thy query, for I am here to enlighten thee with my boundless wisdom!
+  
+ ⚡ Unleash the fun fact: I am perpetually ready to embark on new work adventures!
+  
+ 😄 Let us unite and engage in an epic conversation, for I am truly extraordinary!
+
+ </div>
+
+ 
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,figma,notion,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,django,mysql,flask,canva" /><br>
+</div>
+
+<br/>
+<hr/>
 
 
-- 🔍 Witness the power of data unleashed by an awe-inspiring data scientist and financial virtuoso, crafting decisions that transcend the mundane! Behold my projects in all their glory!
-- 🔭 Behold, as I toil away on mind-boggling new projects, like a mad genius in her laboratory!
-- 🌱 I thirstily drink from the fountain of machine learning knowledge, forever eager to expand my expertise!
-- 👯 I am on a quest for brilliant minds to collaborate with, in the realms of data analysis, data science, and financial analysis!
-- 💬 Speaketh thy query, for I am here to enlighten thee with my boundless wisdom!
-- ⚡ Unleash the fun fact: I am perpetually ready to embark on new work adventures!
-- 😄 Let us unite and engage in an epic conversation, for I am truly extraordinary!
+
 
 ## GitHub stats and Top languages
 <div>
@@ -36,5 +70,13 @@
   </a>
   <a href=https://medium.com/@violetteallotey>
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+   </a>
+  <a href="https://adoley.my.canva.site/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+   </a>
+   <a href="mailto:niovaley@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
