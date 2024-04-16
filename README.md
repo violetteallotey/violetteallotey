@@ -1,3 +1,5 @@
+![MasterHead](https://datasci.ruangluas.com/wp-content/uploads/2023/05/cropped-data-science.png)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=violetteallotey.violetteallotey" />
 
 <h1 align="center">
