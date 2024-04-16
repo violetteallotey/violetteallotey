@@ -3,12 +3,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Violette+Allotey!;" />
 </h1>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm8ydmJkMGluMWk5eWpoYmgxcjdjYW94MmE2NjU5cmZqbmxiajlibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif">
 
 <h3 align="center">A passionate data scientist from Ghana </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
   🔍 Witness the power of data unleashed by an awe-inspiring data scientist and financial virtuoso, crafting decisions that transcend the mundane! Behold my projects in all their glory!
    
